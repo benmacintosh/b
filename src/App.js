@@ -11,6 +11,9 @@ class App extends Component {
         <div>ben macintosh selected</div>
         <p/>
 
+        <a href="https://benmacintosh.github.io/meetingPointOfShortestTravel/" style={{color:'blue'}}>https://benmacintosh.github.io/meetingPointOfShortestTravel/</a>
+        <a href="https://benmacintosh.github.io/sfcnn/" style={{color:'blue'}}>https://benmacintosh.github.io/sfcnn/</a>
+
         <div>new precedence</div>
         <div>new</div>
         <a href="https://google.com" style={{color:'blue'}}>google</a>
