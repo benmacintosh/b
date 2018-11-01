@@ -10,8 +10,9 @@ class App extends Component {
 
         <div>ben macintosh selected</div>
         <p/>
-
-        <a href="https://benmacintosh.github.io/meetingPointOfShortestTravel/" style={{color:'blue'}}>https://benmacintosh.github.io/meetingPointOfShortestTravel/</a>
+        
+        <a href="https://drive.google.com/open?id=1Y2klXRjGOIJTqKySc2zoEqAn3l9WmKx9" style={{color:'blue'}}>https://drive.google.com/open?id=1Y2klXRjGOIJTqKySc2zoEqAn3l9WmKx9</a><div></div>
+        <a href="https://benmacintosh.github.io/meetingPointOfShortestTravel/" style={{color:'blue'}}>https://benmacintosh.github.io/meetingPointOfShortestTravel/</a><div></div>
         <a href="https://benmacintosh.github.io/sfcnn/" style={{color:'blue'}}>https://benmacintosh.github.io/sfcnn/</a>
 
         <div>new precedence</div>
@@ -19,7 +20,8 @@ class App extends Component {
         <a href="https://google.com" style={{color:'blue'}}>google</a>
         <div></div>
         <a href="https://www.youtube.com/watch?v=MxwvtaswDYY" style={{color:'blue'}}>https://www.youtube.com/watch?v=MxwvtaswDYY</a> <div></div>
-        <a href="https://drive.google.com/open?id=1TkU_3pCP1_GgNQi1a_JKRGwaxE-HG3uZ" style={{color:'blue'}}>https://drive.google.com/open?id=1TkU_3pCP1_GgNQi1a_JKRGwaxE-HG3uZ </a>
+        <a href="https://drive.google.com/open?id=1TkU_3pCP1_GgNQi1a_JKRGwaxE-HG3uZ" style={{color:'blue'}}>https://drive.google.com/open?id=1TkU_3pCP1_GgNQi1a_JKRGwaxE-HG3uZ </a> <div></div>
+        <a href="https://drive.google.com/open?id=1UMUVF1wjC0I4xV33OJNL4nfvhX3BCBVF" style={{color:'blue'}}>https://drive.google.com/open?id=1UMUVF1wjC0I4xV33OJNL4nfvhX3BCBVF </a>
         <p/>
 
         {/*<div>tools</div>
@@ -27,6 +29,8 @@ class App extends Component {
         // <div>writing</div
         */}
 
+        <a href="https://docs.google.com/document/d/1BNvit8TB-QKYj4tXKSBwHQVzKCHXGiV5mCnj7NIpYpc/edit?usp=sharing" style={{color:'blue'}}>https://docs.google.com/document/d/1BNvit8TB-QKYj4tXKSBwHQVzKCHXGiV5mCnj7NIpYpc/edit?usp=sharing</a><div></div>
+        <a href="https://docs.google.com/document/d/1rzdybIq5gyWLpJsGp173Za9xnz8_cxemQVyK3HxO3E0/edit?usp=sharing" style={{color:'blue'}}>https://docs.google.com/document/d/1rzdybIq5gyWLpJsGp173Za9xnz8_cxemQVyK3HxO3E0/edit?usp=sharing</a><div></div>
         <div>gardening/floristry</div>   
         <a href="https://drive.google.com/open?id=1DjjcdPYN1j7c2EsNROreW2KpkhduQtXD" syle={{color:'blue'}}>https://drive.google.com/open?id=1DjjcdPYN1j7c2EsNROreW2KpkhduQtXD</a>
         <p/>
