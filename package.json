@@ -1,12 +1,13 @@
 {
-  "name": "bm0l",
+  "name": "b",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://benmacintosh.github.io/bm0l",
+  "homepage": "https://benmacintosh.github.io/b",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "1.1.4"
   },
   "scripts": {
