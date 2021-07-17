@@ -4,21 +4,13 @@ import React, { Component} from 'react';
 
 
 
-function aac(){
 
-    return (
-
-<div>
-
-        <div>ALGORITHMS AGAINST COMPUTATION</div>
-
-
-
-</div>
-
-    );
+class aac extends Component{
+    render(){
+        return(
+            <div>ALGORITHMS AGAINST COMPUTATION</div>
+        ) 
+     }
 }
 
 export default aac;
-
-
