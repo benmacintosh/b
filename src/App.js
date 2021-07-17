@@ -24,7 +24,7 @@ class App extends Component {
         <p/>
         
         <div></div>
-        <img src={img} alt="" width="88"/>
+        <img src={177023767_763016217678599_1231804918011744028_n} alt="" width="88"/>
 
 
 
