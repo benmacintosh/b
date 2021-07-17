@@ -1,11 +1,11 @@
 
 
 import React, { Component} from 'react';
-import './App.css';
 
 
-function aac{
-  render() {
+
+function aac(){
+
     return (
 
 <div>
@@ -17,7 +17,6 @@ function aac{
 </div>
 
     );
-  }
 }
 
 export default aac;
