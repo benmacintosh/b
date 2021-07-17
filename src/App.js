@@ -15,8 +15,8 @@ class App extends Component {
         <p/>
         <a href="https://benmacintosh.github.io/freereview/6.html" style={{color:'blue'}}>freereview</a><div></div>
 
-        <Route path="/aac" component={aac} />
-        <a href='/aac'>AAC</a> <div></div>
+        <Route path="/b/aac" component={aac} />
+        <a href='/b/aac'>AAC</a> <div></div>
 
         <a href="https://benmacintosh.github.io/meetingPointOfShortestTravel/" style={{color:'blue'}}>https://benmacintosh.github.io/meetingPointOfShortestTravel/</a><div></div>
         <a href="https://benmacintosh.github.io/walkForTime/" style={{color:'blue'}}>https://benmacintosh.github.io/walkForTime/</a><div></div>

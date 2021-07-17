@@ -3,7 +3,8 @@
 import React, { Component} from 'react';
 import './App.css';
 
-class aac extends Component {
+
+function aac{
   render() {
     return (
 
